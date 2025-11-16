@@ -39,7 +39,6 @@ set mysql_connection_string "mysql://database_user:database_password@database_ho
 set mysql_debug 0
 ```
 
-Copier le code
 
 ###  Breakdown of the Connection String
 
