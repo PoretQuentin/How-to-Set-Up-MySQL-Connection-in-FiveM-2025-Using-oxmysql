@@ -1,5 +1,5 @@
 # How-to-Set-Up-MySQL-Connection-in-FiveM-2025-Using-oxmysql
-This article explains how to configure a secure MySQL connection string for a FiveM server in 2025 using oxmysql.
+This article explains how to configure a secure MySQL connection string for a FiveM server in 2025 using oxmysql, compatible with the Pterodactyl panel password format.
 ---
 
 ## ✅ Requirements
