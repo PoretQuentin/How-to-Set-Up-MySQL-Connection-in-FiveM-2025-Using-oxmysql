@@ -19,13 +19,14 @@ Download the latest version from GitHub : https://github.com/overextended/oxmysq
 
 Place the folder in:
 
-resources/[ox]/oxmysql
+`resources/[ox]/oxmysql`
 
-Copier le code
 
 Then add this line in your `server.cfg`:
 
-`ensure oxmysql`
+```cfg
+ensure oxmysql
+```
 
 ---
 
