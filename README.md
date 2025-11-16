@@ -33,6 +33,8 @@ ensure oxmysql
 ##  2. Setting the MySQL Connection String (2025 Format)
 
 oxmysql uses a modern URL-style connection string.  
+
+Then, add this line at the beginning of your server.cfg.
 ```cfg
 set mysql_slow_query_warning 150
 set mysql_connection_string "mysql://database_user:database_password@database_host:3306/database_name?charset=utf8mb4"
